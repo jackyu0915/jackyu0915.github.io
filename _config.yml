@@ -65,7 +65,7 @@ gitalk:
   repo: jackyu0915.github.io    #仓库名称
   owner: jackyu0915    #github用户名
   admin: jackyu0915
-  distractionFreeMode: flase #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
