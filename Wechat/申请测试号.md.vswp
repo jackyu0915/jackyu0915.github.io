@@ -1,0 +1,5 @@
+vnote_backup_file_826537664 /Users/ryanyu/Documents/vnote_notebooks/nuaazlxxtech/Wechat/申请测试号.md
+# 申请测试号
+>对于一个项目来说，如果冒然改正式的发布内容是十分“危险”的，那么这个时候我们在正式发布之前就应该不断的测试你所改的内容。对于我们操作微信公众号后台文件来说，你接入到助理学校公众号的文件就是正式的，因而我们还需要搭建一个测试用的公众号。
+## 登入测试号网址
+[https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)
