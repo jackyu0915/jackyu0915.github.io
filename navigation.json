@@ -1,11 +1,7 @@
 {
     "navigation":
     [
-        {
-            "text": "Home",
-            "target": "index.md",
-            "toc": false
-        },
+
 	{
             "text": "Excel",
             "target": "Excel/_vnote.json",
@@ -17,7 +13,7 @@
             "target": "Wechat/_vnote.json",
             "navi": true,
             "navi_index": "Wechat/购买服务器.md"
-        },
+        }
 	
     ],
     "actions":
